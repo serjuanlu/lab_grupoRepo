@@ -1,1 +1,2 @@
-"Esta es la primera linea de la introduccion \nEsta es la segunda\nY esta la tercera" 
+introduccion
+ 2in
