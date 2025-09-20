@@ -14,11 +14,11 @@
 
 ###Checklist
 
-- [] PR rechazado y corregido
-- [] Conflicto resuelto
-- [] Release publicada
+- [ ] PR rechazado y corregido
+- [ ] Conflicto resuelto
+- [ ] Release publicada
 - [ ] Milestones creados (avanzado)
 - [ ] GitHub Actions funcionando (avanzado PRO)
 
-:i: La documentación completa está en la Wiki
+:I: La documentación completa está en la Wiki \n
 :point_right:
