@@ -8,7 +8,7 @@
 - :paperclip: [Repositorio:] (https://github.com/serjuanlu/lab_grupoRepo)
 - :paperclip: [issues:] (https://github.com/serjuanlu/lab_grupoRepo/issues)
 - :paperclip: [Pull  Requests:] (https://github.com/serjuanlu/lab_grupoRepo/pulls)
-- :paperclip: [Release v1.0.0] ()
+- :paperclip: [Release v1.0.0] (https://github.com/serjuanlu/lab_grupoRepo/releases/tag/v1.0.0)
 - :paperclip: [Actions] : ()
 
 
